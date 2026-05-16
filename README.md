@@ -1,3 +1,5 @@
-# TYMM PDF Analizörü - Sınıf Filtreli
+# TYMM Öncelikli Sınıf Analizörü
 
-Streamlit main file: app/app.py
+Ana dosya: app/app.py
+
+Akış: Program PDF → Yazılı PDF → Sınıf seçimi → Seçilen sınıf öncelikli analiz.
