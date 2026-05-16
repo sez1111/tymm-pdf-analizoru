@@ -1,5 +1,5 @@
-# TYMM Seçili Sınıf Zorunlu Analizörü
+# TYMM v4 Seçili Sınıf Kilitli
 
 Ana dosya: app/app.py
 
-Ana eşleşme sadece seçilen sınıftan yapılır. Diğer sınıflar sadece destekleyici/ilişkili olarak gösterilir.
+Ana eşleşme seçili sınıf dışına çıkamaz. Örneğin 10. sınıf seçildiyse BİY.12.* ana eşleşmede görünmez.
