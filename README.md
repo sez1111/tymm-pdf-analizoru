@@ -1,5 +1,5 @@
-# TYMM Öncelikli Sınıf Analizörü
+# TYMM Seçili Sınıf Zorunlu Analizörü
 
 Ana dosya: app/app.py
 
-Akış: Program PDF → Yazılı PDF → Sınıf seçimi → Seçilen sınıf öncelikli analiz.
+Ana eşleşme sadece seçilen sınıftan yapılır. Diğer sınıflar sadece destekleyici/ilişkili olarak gösterilir.
